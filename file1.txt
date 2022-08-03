@@ -1,2 +1,0 @@
-Hello! This is first text file for Git commit!
-And I add this sentance here.
