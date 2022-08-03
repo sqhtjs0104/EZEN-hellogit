@@ -1,1 +1,0 @@
-See you again! It's second text file for Git commit!
